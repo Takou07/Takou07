@@ -52,27 +52,25 @@
 
 ### 💬 Connect With Me
 
-<h3 align="center">💬 Connect With Me</h3>
-
 <p align="center">
   <a href="https://www.kaggle.com/boristakou" target="_blank">
-    <img src="https://img.icons8.com/windows/64/kaggle.png" alt="Kaggle" width="48" height="48"/><br/>
-    <sub>Kaggle</sub>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="Kaggle"/>
+    <br/><sub>Kaggle</sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48"/><br/>
-    <sub>LinkedIn</sub>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <br/><sub>LinkedIn</sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@takouboris79" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" width="48" height="48"/><br/>
-    <sub>Medium</sub>
+    <img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="Medium"/>
+    <br/><sub>Medium</sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kenne_boris07/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="48" height="48"/><br/>
-    <sub>Instagram</sub>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+    <br/><sub>Instagram</sub>
   </a>
 </p>
 
