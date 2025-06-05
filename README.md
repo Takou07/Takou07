@@ -7,7 +7,7 @@
 
 
 ---
-### 📫 Email. takouboris79@gmail
+### 📫 Email: [takouboris79@gmail.com](mailto:takouboris79@gmail.com)
 
 
 
