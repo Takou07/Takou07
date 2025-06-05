@@ -52,36 +52,27 @@
 
 ### 💬 Connect With Me
 
-
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <div>
-      <a href="https://www.kaggle.com/boristakou" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="Kaggle"/>
-      </a>
-    </div>
-    <div>
-      <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-      </a>
-    </div>
-    <div>
-      <a href="https://medium.com/@takouboris79" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="Medium"/>
-      </a>
-    </div>
-    <div>
-      <a href="https://www.instagram.com/kenne_boris07/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-      </a>
-    </div>
-    <div>
-      <a href="https://huggingface.co/BorisKenne07" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48"/>
-      </a>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <a href="https://www.kaggle.com/boristakou" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="Kaggle" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@takouboris79" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="Medium" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kenne_boris07/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/BorisKenne07" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" />
+  </a>
+</p>
 
 
 ---
