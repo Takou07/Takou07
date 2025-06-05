@@ -10,19 +10,11 @@
 ### 📫 Email: [takouboris79@gmail.com](mailto:takouboris79@gmail.com)
 
 
-
 ---
 
 ### 🌟 Top Projects
 
- 🚄 **HSR Passenger Demand Forecast** [Dive In](https://github.com/Yusuf-Abol/JetRail-Traffic-Forecasting)
-   
- 🔭 **NEOCLARA-II: Performance Evaluation of Classification Models** [In Progress](https://github.com/Yusuf-Abol/NEOCLARA-II)
-
- 💬 **Alumni Interaction and Conversation Dynamics** [View Project](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
  
- 🌑 **NEOCLARA-I: Near-Earth Objects Classification & Risk Assessment** [View Project](https://github.com/Yusuf-Abol/NEOCLARA-I)
-
 
 ---
 
@@ -81,10 +73,6 @@
 ---
 
 ### 📚 Latest Articles
-
-- 📝 **Hyperparameter Tuning & Cross-Validation** (Ready soon!)
-
-- 📖 **Debris in the Matrix** [READ](https://medium.com/@yusufabolarinwa/debris-in-the-matrix-0ae923a39f0d) 
 
 
 
