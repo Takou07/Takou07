@@ -53,26 +53,20 @@
 ### 💬 Connect With Me
 
 <p align="center">
-  <a href="https://www.kaggle.com/boristakou" target="_blank" style="margin: 0 15px; text-align: center;">
+  <a href="https://www.kaggle.com/boristakou" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="Kaggle"/>
-    <br/><sub>Kaggle</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank" style="margin: 0 15px; text-align: center;">
+  <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-    <br/><sub>LinkedIn</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@takouboris79" target="_blank" style="margin: 0 15px; text-align: center;">
+  <a href="https://medium.com/@takouboris79" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="Medium"/>
-    <br/><sub>Medium</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kenne_boris07/" target="_blank" style="margin: 0 15px; text-align: center;">
+  <a href="https://www.instagram.com/kenne_boris07/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-    <br/><sub>Instagram</sub>
   </a>
 </p>
+
 
 ---
 ### ⚡ Stats 
