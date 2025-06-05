@@ -119,29 +119,21 @@
 ---
 ### ⚡ Stats 
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takou07&show_icons=true&theme=react)
 
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Takou07&count_private=true&theme=react&border_radius=10&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Takou07&layout=compact&theme=react)
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Takou07&theme=react-dark)
 
-
 ---
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dark)
+
 ---
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; font-style: italic; color:#555;">
   "The important thing is not to stop questioning. Curiosity has its own reason for existing."
   <br/>
   — <strong>Albert Einstein</strong>
 </p>
-
----
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dark)
-<!---
-Yusuf-Abol/Yusuf-Abol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
