@@ -28,13 +28,54 @@
 
 ### 📦 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+<!-- Langages de programmation -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3.6.3-yellowgreen?style=for-the-badge&logo=r&logo=nltk)
-![Sci-kit](https://img.shields.io/badge/Scikitlearn-blue?style=for-the-badge&logo=r&logo=scikit)
-![Gensim](https://img.shields.io/badge/Gensim-4.1.2-green?style=for-the-badge&logo=r&logo=gensim)
-![Optuna](https://img.shields.io/badge/Optuna-blue?style=for-the-badge&logo=r&logo=optuna)
+![COBOL](https://img.shields.io/badge/COBOL-2C2255?style=for-the-badge&logo=gnu&logoColor=white)
+
+<!-- Outils Data Science / ML -->
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-A4353A?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-8CBF3F?style=for-the-badge&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-005B9A?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Deep Learning -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+<!-- NLP / Speech -->
+![NLTK](https://img.shields.io/badge/NLTK-3.6.3-yellowgreen?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-4.1.2-green?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FFB6C1?style=for-the-badge&logo=google&logoColor=black)
+![Whisper](https://img.shields.io/badge/OpenAI-Whisper-blue?style=for-the-badge&logo=openai&logoColor=white)
+
+<!-- Computer Vision -->
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolov5&logoColor=white)
+![MMDetection](https://img.shields.io/badge/MMDetection-00599C?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Digital Twin / Simulation -->
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
 ---
