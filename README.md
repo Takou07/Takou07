@@ -132,8 +132,12 @@
 
 ---
 ---
-"The important thing is not to stop questioning. Curiosity has its own reason for existing."
-— Albert Einstein
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; font-style: italic; color:#555;">
+  "The important thing is not to stop questioning. Curiosity has its own reason for existing."
+  <br/>
+  — <strong>Albert Einstein</strong>
+</p>
+
 ---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dark)
