@@ -51,10 +51,23 @@
 ---
 
 ### 💬 Connect With Me
-[![Kaggle](https://img.shields.io/badge/Kaggle-Here-blue?style=flat&logo=kaggle)](https://www.kaggle.com/boristakou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/boris-takou-kenne-948895253)
-[![Medium](https://img.shields.io/badge/Medium-Read-dark?style=flat&logo=medium)](https://medium.com/@takouboris79)
-[![Instagram](https://img.shields.io/badge/instagram.com-Follow-white?style=flat&logo=intagram)](https://www.instagram.com/kenne_boris07/)
+
+
+<p align="left">
+  <a href="https://www.kaggle.com/boristakou" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@takouboris79" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.instagram.com/kenne_boris07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 
 ---
 ### ⚡ Stats 
