@@ -52,21 +52,21 @@
 
 ### 💬 Connect With Me
 
-
 <p align="left">
   <a href="https://www.kaggle.com/boristakou" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.icons8.com/color/48/kaggle.png" alt="Kaggle"/>
   </a>
   <a href="https://www.linkedin.com/in/boris-takou-kenne-948895253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@takouboris79" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="Medium"/>
   </a>
   <a href="https://www.instagram.com/kenne_boris07/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
+
 
 
 ---
