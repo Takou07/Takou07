@@ -132,12 +132,8 @@
 
 ---
 ---
-
-
-                                 Somewhere, something incredible is waiting to be known. We are made of star-stuff,
-                             a way for the universe to know itself. As we explore, we not only discover the cosmos, 
-                                       but also ourselves, understanding our place in the grand story of existence.
-                                                                                              - Carl Sagan [Cosmos]
+"The important thing is not to stop questioning. Curiosity has its own reason for existing."
+— Albert Einstein
 ---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dark)
