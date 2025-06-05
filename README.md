@@ -3,7 +3,7 @@
 
 # Hi! I'm Boris TAKOU KENNE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A6FF&center=false&vCenter=true&width=500&lines=🧠+Digital+Twin+Engineer+%7C+🖼️+Computer+Vision+%7C+🗣️+Speech+Recognition;🗄️+Databases+%7C+🤖+Machine+Learning+%7C+🧬+Deep+Learning;⚙️+Data+Engineering+%7C+📊+Data+Science;🌍+Together+we+can+change+the+world)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A6FF&center=false&vCenter=true&width=1000&lines=🧠+Digital+Twin+Engineer+%7C+🖼️+Computer+Vision+%7C+🗣️+Speech+Recognition;🗄️+Databases+%7C+🤖+Machine+Learning+%7C+🧬+Deep+Learning;⚙️+Data+Engineering+%7C+📊+Data+Science;🌍+Together+we+can+change+the+world)
 
 
 ---
