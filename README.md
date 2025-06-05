@@ -140,7 +140,7 @@
                                                                                               - Carl Sagan [Cosmos]
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Yusuf-Abol&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dark)
 <!---
 Yusuf-Abol/Yusuf-Abol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
