@@ -93,7 +93,7 @@
   <a href="https://www.instagram.com/kenne_boris07/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/BorisKenne07" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" />
   </a>
