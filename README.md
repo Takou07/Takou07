@@ -112,8 +112,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Takou07&theme=react-dark)
 
 ---
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dark)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Takou07&theme=dracula)
 
 ---
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; font-style: italic; color:#555;">
