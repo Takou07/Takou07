@@ -103,7 +103,7 @@
 ---
 ### ⚡ Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takou07&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takou07&showicons=true&theme=react)
 
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Takou07&count_private=true&theme=react&border_radius=10&hide_border=false)
 
