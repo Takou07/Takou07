@@ -101,9 +101,14 @@
 
 
 ---
-### ⚡ Stats
+### ⚡ Stats 
 
-![Metrics](https://metrics.lecoq.io/Takou07?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&followup=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&config.timezone=Europe/Paris)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takou07&show_icons=true&theme=react&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Takou07&theme=react&border_radius=10&count_private=true&cache_seconds=1800)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Takou07&theme=react-dark&cache_seconds=1800)
+
 ---
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; font-style: italic; color:#555;">
