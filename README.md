@@ -38,6 +38,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolov5&logoColor=white)
+
 ---
 
 ### 📚 Latest Articles
