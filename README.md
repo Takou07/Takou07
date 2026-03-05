@@ -11,8 +11,13 @@
 
 
 ### 🌟 Top Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Takou07&repo=ai-chrome-dino&theme=react)](https://github.com/Takou07/ai-chrome-dino)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Takou07&repo=data-warehouse-immobilier&theme=react)](https://github.com/Takou07/data-warehouse-immobilier)
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **[IA Pilote Chrome Dino](https://takoukenne.com/projets/ai-chrome-dino)** | Intelligence Artificielle capable de piloter le dinosaure de Chrome en temps réel. | Python, AI, Computer Vision |
+| **[Data Warehouse Immobilier](https://takoukenne.com/projets/data-warehouse-immobilier)** | Pipeline de données complet pour l'analyse du marché immobilier. | Python, SQL, Data Engineering |
+
+👉 *Retrouvez tous mes projets détaillés sur [takoukenne.com/projets](https://takoukenne.com/projets)*
  
 
 ---
