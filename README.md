@@ -11,7 +11,8 @@
 
 
 ### 🌟 Top Projects
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Takou07&repo=ai-chrome-dino&theme=react)](https://github.com/Takou07/ai-chrome-dino)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Takou07&repo=data-warehouse-immobilier&theme=react)](https://github.com/Takou07/data-warehouse-immobilier)
  
 
 ---
@@ -70,7 +71,8 @@
 
 ### 📚 Latest Articles
 
-
+* **[Waxal : Un dataset pour la reconnaissance vocale](https://blog.takoukenne.com/posts/waxal-dataset/)** — *Plongée dans la création d'un jeu de données pour le Speech-to-Text.*
+* **[Bienvenue sur mon B'BLog !](https://blog.takoukenne.com/posts/mon-premier-article/)** — *Le début de mon aventure de partage autour de la Data et de l'IA.*
 
 
 ---
